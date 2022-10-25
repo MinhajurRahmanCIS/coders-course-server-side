@@ -1,0 +1,13 @@
+{
+    "id": "06",
+    "title": "PHP",
+    "picture": "https://www.php.net/images/meta-image.png",
+    "info": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.",
+    "duration": "4 month",
+    "level": "Beginner",
+    "teacher": "Mr. Mir Hussain",
+    "totalClass": 14,
+    "totalQuiz": 9,
+    "liveHelpSession": "2 time"
+
+}

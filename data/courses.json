@@ -3,9 +3,8 @@
         "id" : "01",
         "title" : "Java Script",
         "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
-        "info" : "JavaScript is the programming language of the Web. JavaScript is easy to learn. JavaScript.com is a resource built by the Plural sight team for the JavaScript community. Because JavaScript is a great language for coding beginners, we've gathered some of the best learning resources around and built a JavaScript course to help new developers get up and running.",
         "duration" : "3 month",
-        "level" : "beginner"
+        "level" : "Beginner"
     },
    
     {
@@ -26,8 +25,8 @@
     },
     {
         "id" : "04",
-        "title" : "R",
-        "picture" : "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
+        "title" : "C#",
+        "picture" : "https://www.kindpng.com/picc/m/657-6574280_c-c-sharp-logo-png-transparent-png.png",
         "info" : "C# is a general-purpose, high-level multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.",
         "duration" : "6 month",
         "level" : "Advance" 
@@ -35,7 +34,7 @@
     {
         "id" : "05",
         "title" : "Java",
-        "picture" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+        "picture" : "https://www.pngkey.com/png/full/264-2646582_logo-transparent-background-java.png",
         "info" : "Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today's digital world, by providing the reliable platform upon which many services and applications are built. New, innovative products and digital services designed for the future continue to rely on Java, as well.",
         "duration" : "8 month",
         "level" : "Advance" 

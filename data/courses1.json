@@ -1,0 +1,12 @@
+{
+    "id": "01",
+    "title": "Java Script",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+    "info": "JavaScript is the programming language of the Web. JavaScript is easy to learn. JavaScript.com is a resource built by the Plural sight team for the JavaScript community. Because JavaScript is a great language for coding beginners, we've gathered some of the best learning resources around and built a JavaScript course to help new developers get up and running.",
+    "duration": "3 month",
+    "level": "Beginner",
+    "teacher": "Mr. Jhankar Mahbub",
+    "totalClass": 20,
+    "totalQuiz": 12,
+    "liveHelpSession": "3 time"
+}

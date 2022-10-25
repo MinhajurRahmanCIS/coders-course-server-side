@@ -1,0 +1,12 @@
+{
+    "id": "02",
+    "title": "Python",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png",
+    "info": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
+    "duration": "2 month",
+    "level": "Advance",
+    "teacher": "Mr. Gias Uddin Hasan",
+    "totalClass": 15,
+    "totalQuiz": 10,
+    "liveHelpSession": "2 time"
+}
