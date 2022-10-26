@@ -4,7 +4,8 @@
         "title" : "Java Script",
         "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
         "duration" : "3 month",
-        "level" : "Beginner"
+        "level" : "Beginner",
+        "price" : 50
     },
    
     {
@@ -13,7 +14,8 @@
         "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png",
         "info" : "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
         "duration" : "2 month",
-        "level" : "Advance"
+        "level" : "Advance",
+        "price" : 35
     },
     {
         "id" : "03",
@@ -21,7 +23,8 @@
         "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
         "info" : "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or C with Classes.",
         "duration" : "2 month",
-        "level" : "Beginner" 
+        "level" : "Beginner",
+        "price" : 30
     },
     {
         "id" : "04",
@@ -29,7 +32,8 @@
         "picture" : "https://www.kindpng.com/picc/m/657-6574280_c-c-sharp-logo-png-transparent-png.png",
         "info" : "C# is a general-purpose, high-level multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.",
         "duration" : "6 month",
-        "level" : "Advance" 
+        "level" : "Advance",
+        "price" : 45
     },
     {
         "id" : "05",
@@ -37,7 +41,8 @@
         "picture" : "https://www.pngkey.com/png/full/264-2646582_logo-transparent-background-java.png",
         "info" : "Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today's digital world, by providing the reliable platform upon which many services and applications are built. New, innovative products and digital services designed for the future continue to rely on Java, as well.",
         "duration" : "8 month",
-        "level" : "Advance" 
+        "level" : "Advance",
+        "price" : 25
     },
     {
         "id" : "06",
@@ -45,7 +50,8 @@
         "picture" : "https://www.php.net/images/meta-image.png",
         "info" : "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.",
         "duration" : "4 month",
-        "level" : "Beginner"  
+        "level" : "Beginner",
+        "price" : 38
     }
    
 ]

@@ -8,5 +8,6 @@
     "teacher": "Mr. Jhankar Mahbub",
     "totalClass": 20,
     "totalQuiz": 12,
-    "liveHelpSession": "3 time"
+    "liveHelpSession": "3 time",
+    "price" : 50
 }
